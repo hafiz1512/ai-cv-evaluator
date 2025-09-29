@@ -27,15 +27,20 @@ This project helps HR teams or recruiters to **analyze candidates’ resumes aut
 
 ---
 
-## 📸 Demo Screenshots
-## Upload Form
-![Upload Form](assets/Screenshot-UI.png)
+## 📸 Demo Screenshots  
 
-### Evaluation Result
-![Evaluation Result](assets/Screenshot-result1.png)
+## Upload Form  
+![Upload Form](assets/Screenshot-UI.png)  
+![Upload Process](assets/Screenshot%202025-09-30%20001711.png)  
 
-### Status Updates
-![Status Updates](assets/Screenshot-result2.png)
+### Evaluation Result  
+![Evaluation Result](assets/Screenshot-result1.png)  
+![Evaluate Process](assets/Screenshot%202025-09-30%20002146.png)  
+
+### Status Updates  
+![Status Updates](assets/Screenshot-result2.png)  
+![Final Result](assets/Screenshot%202025-09-30%20001913.png)  
+
 
 ---
 

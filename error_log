@@ -1,0 +1,16 @@
+[29-Sep-2025 20:35:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/roy41712/public_html/evaluate/upload.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/roy41712/public_html/evaluate/upload.php on line 19
+[29-Sep-2025 20:40:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/roy41712/public_html/evaluate/upload.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/roy41712/public_html/evaluate/upload.php on line 19
+[29-Sep-2025 22:24:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/roy41712/public_html/evaluate/upload.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/roy41712/public_html/evaluate/upload.php on line 19
+[29-Sep-2025 22:25:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/roy41712/public_html/evaluate/upload.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/roy41712/public_html/evaluate/upload.php on line 19

@@ -1,0 +1,29 @@
+Resume
+Amina El-Bakali
+Phone: +212 6 1234 5678
+Email: amina.elbakali@example.com
+LinkedIn: linkedin.com/in/aminaelbakali
+Location: Casablanca, Morocco
+Summary:
+A highly motivated Software Developer with over 3 years of experience in chatbot development, API
+integration, and machine learning. Possesses strong skills in Python, Flask, and data visualization.
+Proven track record of successfully managing complex projects and contributing to scientific
+research in AI.
+Education:
+- Master of Science in AI and Data Science (Ongoing) - University of Casablanca
+- Bachelor's in Computer Science - University of Rabat
+- DEUST in Mathematics, Physics, and Computer Science - University of Marrakesh
+- Baccalaureate in Physical Science - Lycée Mohammed V
+
+Technical Skills:
+- Programming Languages: Python, Java, PHP, HTML, CSS
+- Frameworks: Rasa, Flask, JEE
+- Tools: Power BI, Spark, Kafka
+- Certifications: IBM Machine Learning (April 2024)
+Experience:
+- Software Developer | Tech Innovations Ltd. | Casablanca, Morocco | 2021 - Present
+  - Developed and integrated advanced chatbot solutions using Rasa and SpaCy.
+  - Built and maintained RESTful APIs using Flask for seamless system integrations.
+  - Created and optimized machine learning models for real-time data processing.
+  - Managed multiple software development projects, ensuring timely delivery.
+- Research Assistant | AI Research Lab | University of Casablanca | 2020 - 2021

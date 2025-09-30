@@ -47,5 +47,5 @@ This project helps HR teams or recruiters to **analyze candidates’ resumes aut
 ## ⚙️ Installation
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/ai-cv-evaluator.git
+   git clone https://github.com/hafiz1512/ai-cv-evaluator.git
 
